@@ -1,0 +1,13 @@
+openai
+python-dotenv
+boto3
+pygame
+
+sounddevice
+soundfile
+
+scipy
+wavio
+
+# sudo apt-get install ffmpeg
+pydub
